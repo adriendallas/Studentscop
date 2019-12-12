@@ -143,5 +143,7 @@ margin-right: 10px;
 #video-presentation{width: 90vw;
 	text-align: center;
 	margin: 0px 5vw;)
+	
+@media ( max-width: 700px;){.container{width: 500px;}}
 
 
