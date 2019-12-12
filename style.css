@@ -70,10 +70,10 @@ margin-right: 10px;
 					font-size: 2.5vw;
 					font-family: 'Concert One', cursive;
 					text-decoration: none;
-					border-width: 4px;
+					border-width: 0.2vw;
 					border-style: solid;
 					border-color: #272343;
-					padding: 6px;
+					padding: 0.5vw;
 					margin-bottom: 200px;
 					}
 
@@ -81,10 +81,12 @@ margin-right: 10px;
 					font-size: 2.5vw;
 					font-family: 'Concert One', cursive;
 					text-decoration: none;
-					border-width: 2px;
+					border-width: 0.2vw;
 					border-style: solid;
 					border-color: green;
 					margin-bottom: 200px;
+					padding: 0.5vw;
+
 					}
 .texte-fin{display: block;
 			margin-bottom: 60px;
@@ -99,11 +101,11 @@ margin-right: 10px;
 			margin-bottom: 4.5vw;
 			font-family: 'Concert One', cursive;
 			text-decoration: none;
-			border-width: 2px;
+			border-width: 0.2vw;
 			border-style: solid;
 			border-color: #272343;
 			border-radius: 5%; 
-			padding: 6px;
+			padding: 0.5vw;
 			display: inline-block;
 			margin-left: 5vw;
 			margin-right: 11vw;
@@ -116,11 +118,11 @@ margin-right: 10px;
 			margin-bottom: 4.5vw;
 			font-family: 'Concert One', cursive;
 			text-decoration: none;
-			border-width: 2px;
+			border-width: 0.2vw;
 			border-style: solid;
 			border-color: green;
 			border-radius: 5%; 
-			padding: 6px;
+			padding: 0.5vw;
 			display: inline-block;
 			margin-left: 5vw;
 			margin-right: 11vw;
@@ -149,6 +151,5 @@ ul.liste-menu{padding-left:0px;}
 @media ( max-width: 720px;){.container{width: 500px;}}
 @media ( max-width: 540px;){.container{width: 300px;}}
 @media ( max-width: 420px;){.container{width: 150px;}}
-
 
 
