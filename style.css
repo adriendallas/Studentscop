@@ -144,6 +144,10 @@ margin-right: 10px;
 	text-align: center;
 	margin: 0px 5vw;)
 	
-@media ( max-width: 700px;){.container{width: 500px;}}
+@media ( max-width: 960px;){.container{width: 700px;}}
+@media ( max-width: 720px;){.container{width: 500px;}}
+@media ( max-width: 540px;){.container{width: 300px;}}
+@media ( max-width: 420px;){.container{width: 150px;}}
+
 
 
