@@ -139,6 +139,7 @@ margin-right: 10px;
 			
 				}
 .liste-menu{margin: 0px 0px;}
+ul.liste-menu{padding-left:0px;}
 
 #video-presentation{width: 90vw;
 	text-align: center;
